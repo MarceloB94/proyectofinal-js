@@ -4,91 +4,91 @@
     "description": "Salteñas",
     "price": 160,
     "available": true,
-    "source": "images/EP.jpg"
+    "source": "images/EP.png"
   },
   {
     "type": "Empanadas",
     "description": "Arabes",
     "price": 160,
     "available": true,
-    "source": "images/EP.jpg"
+    "source": "images/EP.png"
   },
   {
     "type": "Empanadas",
     "description": "Jamon y Queso",
     "price": 160,
     "available": true,
-    "source": "images/EP.jpg"
+    "source": "images/EP.png"
   },
   {
     "type": "Empanadas",
     "description": "Dulces",
     "price": 160,
     "available": true,
-    "source": "images/EP.jpg"
+    "source": "images/EP.png"
   },
   {
     "type": "Empanadas",
     "description": "Jamon y Roquefort",
     "price": 160,
     "available": true,
-    "source": "images/EP.jpg"
+    "source": "images/EP.png"
   },
   {
     "type": "Empanadas",
     "description": "Humita",
     "price": 160,
     "available": true,
-    "source": "images/EP.jpg"
+    "source": "images/EP.png"
   },
   {
     "type": "Empanadas",
     "description": "Berenjena",
     "price": 160,
     "available": true,
-    "source": "images/EP.jpg"
+    "source": "images/EP.png"
   },
   {
     "type": "Empanadas",
     "description": "Verdura",
     "price": 160,
     "available": true,
-    "source": "images/EP.jpg"
+    "source": "images/EP.png"
   },
   {
     "type": "Empanadas",
     "description": "Capresse",
     "price": 160,
     "available": true,
-    "source": "images/EP.jpg"
+    "source": "images/EP.png"
   },
   {
     "type": "Empanadas",
     "description": "Cebolla 4 Quesos",
     "price": 160,
     "available": true,
-    "source": "images/EP.jpg"
+    "source": "images/EP.png"
   },
   {
     "type": "Empanadas",
     "description": "Queso Cebolla Morron",
     "price": 160,
     "available": true,
-    "source": "images/EP.jpg"
+    "source": "images/EP.png"
   },
   {
     "type": "Empanadas",
     "description": "Cerdo al Disco",
     "price": 160,
     "available": true,
-    "source": "/images/EP.jpg"
+    "source": "images/EP.png"
   },
   {
     "type": "Empanadas",
     "description": "Pollo",
     "price": 160,
     "available": true,
-    "source": "images/EP.jpg"
+    "source": "images/EP.png"
   },
   {
     "type": "Bebidas",
